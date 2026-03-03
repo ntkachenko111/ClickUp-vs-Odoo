@@ -69,6 +69,11 @@ Oba systemy oferują sekcję do komunikacji i notatek, która pojawia się po we
 
 <img width="976" height="888" alt="image" src="https://github.com/user-attachments/assets/0f10f4c1-52a4-439d-b885-cfe818a93a5f" />
 
+## 5. Stabilność systemu i wyszukiwanie (Błędy krytyczne)
+Podczas korzystania z wyszukiwarki w Odoo pojawia się błąd, który całkowicie blokuje pracę:
+* **Błąd po usunięciu zadania:** Kiedy szukasz konkretnej taski przez "Search", a po jej znalezieniu decydujesz się ją usunąć, system całkowicie przestaje działać. Wyskakuje błąd systemowy (widoczny na zdjęciu), strona "zamarza" i jedynym wyjściem jest jej ręczne odświeżenie. W ClickUpie takie operacje przebiegają płynnie i bez błędów technicznych.
+
+<img width="1137" height="716" alt="image" src="https://github.com/user-attachments/assets/66c94a22-aa7c-4018-9c29-e45a3bde6817" />
 
 ---
 
