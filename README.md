@@ -86,6 +86,7 @@ Podczas korzystania z wyszukiwarki w Odoo pojawia się błąd, który całkowici
 | **Tworzenie subtasku** | Nazwa, tagi i assignee w jednym kroku. | Skomplikowane. |
 | **Dostęp do detali** | Bezpośrednio z widoku głównego. | Często wymaga otwierania dodatkowych pop-upów. |
 | **Sekcja Activity** | Zintegrowana, widoczna po wejściu w task. | Widoczna po wejściu w task, mniej elastyczna. |
+| **Stabilność / Szukanie** | Działa płynnie. | **Crash systemu po usunięciu z searcha.** |
 
 **Podsumowanie:**
 Obie platformy oferują podobny układ startowy, ale różnią się znacząco w płynności obsługi mikro-zadań. ClickUp stawia na automatyzację i widoczność danych, natomiast Odoo wymaga więcej manualnych operacji (zapisywanie zmian, ręczne przypisywanie projektów) i boryka się z błędami w raportowaniu postępu na widoku listy.
